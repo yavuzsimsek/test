@@ -1,2 +1,2 @@
 # test
-For examples test repo
+Examples test repo
